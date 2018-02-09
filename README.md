@@ -1,0 +1,2 @@
+# HacknetScriptBuilder
+A game for Steam - made by Hacknet. Hacknet has an Extension, which is an extension module. However, the extension module uses the script type XML - Extensible Markup Language, the content is more complicated. In response to these features, I made an XML script generator, the use of the language is a relatively compatible Python language. There are currently a few things that I can generate, and I will continue to refine and upgrade this generator. The ultimate goal of generating Extension - expansion.
